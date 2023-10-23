@@ -110,7 +110,7 @@ In conclusion, our Elevator Control System's optimization and achievement of ada
 
 ## State Tables 
 
-Table 1 
+### Table 1 
 
 Table 1 provides a detailed overview of the finite state machine transitions within our elevator control system. It outlines the current states, input conditions, next states, and associated output actions.  This  table  serves  as  a  comprehensive  reference  for  understanding  the  elevator's behavior and responses under different scenarios, including reset conditions, door operations, and movement directions.  
 
@@ -136,7 +136,7 @@ Table 1 provides a detailed overview of the finite state machine transitions wit
 
 
 
-Table 2 
+### Table 2 
 
 Table 2 presents a concise representation of state transitions related to the update of elevator requests, max\_request, and min\_request. It defines how the elevator system handles new floor requests and maintains these key variables, which play a crucial role in optimizing request prioritization  and  elevator  movement.  This  table  simplifies  the  understanding  of  request management within the elevator control system.  
 
@@ -449,6 +449,6 @@ endmodule
 
 ```
 
-Epwave 
+### Epwave 
 
 ![](https://github.com/Engineer-Ayesha-Shafique/Generalized-Elevator-Control-System-Using-System-Verilog/blob/main/Epwave.png)
